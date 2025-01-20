@@ -20,4 +20,5 @@ Query HIBP via API for domains and email addresses
 ## TODO
 
  * Improve error handling
+ * Migrate from requests to urllib3 for HTTP requests
  * Improve .env handling
