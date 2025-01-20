@@ -14,4 +14,10 @@ Query HIBP via API for domains and email addresses
  * query-subbed-domains.py - What domains are we monitoring in HIBP
  * query-domain.py - Query HIBP for ${domain}
  * query-email.py - Query HIBP for ${email}
- * query-stealerlogs.p - Query an email against HIBP stealer logs
+ * query-stealerlogs.py - Query an email against HIBP stealer logs
+
+
+## TODO
+
+ * Improve error handling
+ * Improve .env handling
